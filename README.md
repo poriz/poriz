@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/github/languages/count/beygee/survive"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poriz&show_icons=true&theme=vue)
