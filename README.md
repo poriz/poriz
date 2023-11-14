@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![poriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=poriz&show_icons=true&theme=vue)
 [![poriz's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=poriz&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/poriz)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=poriz)](https://solved.ac/poriz/)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={poriz})](https://solved.ac/{poriz})
+
+
