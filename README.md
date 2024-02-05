@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=0078D7&height=300&section=header&text=Pori&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pori's%20GitHub&reversal=false&textBg=false&fontColor=008B8B&desc=Taesu%20Jang)
 
 
 <div align="center">
