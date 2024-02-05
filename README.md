@@ -51,7 +51,6 @@
     <!-- Data Processing & Analytics -->
     <p><strong>Data Processing & Analytics</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
         <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
         <img src="https://img.shields.io/badge/Presto-5890FF?style=for-the-badge&logo=presto&logoColor=white">
@@ -60,6 +59,7 @@
     <!-- Programming Languages -->
     <p><strong>Programming Languages</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
     </div>
